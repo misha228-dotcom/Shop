@@ -152,6 +152,7 @@ ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
+
    
     
 }
@@ -175,10 +176,12 @@ ul{
     font-size: 48px;
     color: #779611;
     padding-bottom: 50px;
+    max-width: 580px;
     
 }
 .about-text{
     font-size: 20px;
+    
     
     
 }
