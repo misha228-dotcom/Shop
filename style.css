@@ -83,9 +83,10 @@ ul{
     font-weight: 600;
     color: #779611;
     padding-bottom: 35px;
+    font-size:36px ;
 }
 .flaves-text{
-    padding-top: 35px;
+    
     padding-bottom: 50px;
 }
 .flaves-list{
@@ -162,6 +163,7 @@ ul{
     font-weight: 500;
     font-size: 24px;
     font-family: "Exo 2", sans-serif;
+    margin-bottom: 15px;
     
 }
 
@@ -176,9 +178,9 @@ ul{
     
 }
 .about-text{
-    font-size: 24px;
-    padding-bottom: 50px;
-    max-width: 580px;
+    font-size: 20px;
+    
+    
 }
 
 
