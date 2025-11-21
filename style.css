@@ -65,6 +65,16 @@ ul{
     font-size: 32px;
     padding: 18px 70px 18px 70px;
 }
+
+
+.hero-img{
+
+    padding-left:137px ;
+}
+
+
+
+
 .flaves{
     padding-top: 80px;
 }
@@ -108,7 +118,7 @@ ul{
 }
 
 .subscription-text{
-    padding-top: 35px;
+    
     padding-bottom: 50px;
 }
 
@@ -125,6 +135,7 @@ ul{
 }
 .subscription-price{
     padding-left: 60px;
+    padding-bottom: 80px;
 }
 
 
@@ -132,12 +143,15 @@ ul{
 
 
 .about{
-    border-bottom: 2px solid #779611;
+    border-top: 2px solid #779611;
+     padding-top:114px;
+    padding-bottom: 114px;
 }
 .about-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
     
 }
 
@@ -166,18 +180,6 @@ ul{
     padding-bottom: 50px;
     max-width: 580px;
 }
-
-.about-img{
-   
-    padding-left: 445px;
-    padding-top:114px;
-    padding-left: 245px;
-    padding-bottom: 114px;
-
-
-}
-
-
 
 
 
